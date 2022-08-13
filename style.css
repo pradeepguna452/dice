@@ -32,3 +32,9 @@ footer {
 text-align: center;
 color:aliceblue ;
 }
+@media (max-width:880px) {
+    .heading-top {
+        font-family: 'Kaushan Script', cursive;
+        color: #4ECCA3;
+        font-size: 3rem;
+    }
